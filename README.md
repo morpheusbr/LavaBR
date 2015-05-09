@@ -16,4 +16,4 @@
 * Opção para seguir usuarios e receber atualuzações dos mesmos.
 * Linha do tempo, para postagens no perfil ou no perfil de seguidores.
 * Notificações de atualizações dos usuarios seguidos, como alteração de apelido, postagem em linha do tempo, envio de fotos, criação de novos albuns e etc.....
-<br/><br/><b><a href="http://celumaniacos.ga/index">Acesse a Versão de Testes</a></b> no link http://celumaniacos.ga
+<br/><br/><b><a href="http://celumaniacos.com">Acesse a Versão de Testes</a></b> no link http://celumaniacos.com
