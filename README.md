@@ -3,7 +3,8 @@
 <h3>Detalhes da Versão Beta 1:</h3>
 * Cadastro com ativação via e-mail.
 * Recuperação de Senha via e-mail.
-* Opção de Login via ID , Login e E-mail.
+* Opção de Login via ID , Login, E-mail e Google.
+* Cadastro pelo Google.  
 * Url amigavél via Htacess.
 * Smilies sem banco de dados, preg_replace via diretorio com adição automática entre pontos.
 * Função Captcha em cadastro.
