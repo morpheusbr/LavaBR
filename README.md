@@ -1,2 +1,2 @@
-<h1>MobyChat Sqlite v2</h1>
-Sistema de Chat mobile
+<h1>LavaBR v1</h1>
+ComunidadeWap
